@@ -1,10 +1,10 @@
 {
   "name": "walladog-dropdown-multiselect",
-  "version": "1.5.3",
+  "version": "1.5.2",
   "authors": [
-    "Ramon Alberti <krainet@gmail.com>
+    "Ramon Alberti <krainet@gmail.com>"
   ],
-  "description": "Walladog Dropdown Multiselect directive",
+  "description": "AngularJS Dropdown Multiselect directive",
   "keywords": ["angular", "angularjs", "directive", "dropdown", "multiselect", "checklist", "list", "bootstrap", "checkbox"],
   "license": "MIT",
   "main": "src/walladog-dropdown-multiselect.js",
